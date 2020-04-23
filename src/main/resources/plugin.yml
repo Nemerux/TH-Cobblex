@@ -1,0 +1,4 @@
+name: TH-Cobblex
+version: ${project.version}
+main: pl.tryhardujemy.thcobblex.CobblexPlugin
+description: Kobleks plugin

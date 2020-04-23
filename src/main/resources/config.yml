@@ -1,0 +1,12 @@
+cobblex:
+  drops:
+    1:
+      type: DIAMOND_BLOCK
+      chance: 50
+      amount:
+        min: 1
+        max: 5
+      name: "&6diamond"
+      lore:
+        - "&6block"
+      displayName: "&bDjamencig"
